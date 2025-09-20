@@ -7,8 +7,8 @@ It supports the basic operations: Addition, Subtraction, Multiplication, and Div
 
 ## 🚀 How to Run
 
-1. Clone this repo:
- 
+1. Clone this repo: https://github.com/umesh-nethmina/SimpleCalculator.git
+   
 2.compile:   javac Calculator.java
-         
+
 3.Run:  java Calculator
